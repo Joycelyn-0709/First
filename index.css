@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    text-align: center;
+    background-color: lightcyan;
+    color: black;
+    padding: 10px;
+}
+
+nav a{
+    margin: 0 10px;
+    color: black;
+    padding: 10px;
+}
+
+section{
+    color: black;
+    padding: 20px;
+}
+
+img{
+    display: block;
+}
+
+footer{
+    text-align: center;
+    color: black;
+    padding:10px;
+}
